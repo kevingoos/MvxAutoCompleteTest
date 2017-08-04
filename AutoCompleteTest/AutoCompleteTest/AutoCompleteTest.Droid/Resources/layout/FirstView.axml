@@ -19,7 +19,7 @@
                 android:layout_margin="5dp"
                 android:completionThreshold="1"
                 local:MvxItemTemplate="@layout/searchitemview"
-                local:MvxBind="ItemsSource Items; PartialText ItemSearchTerm; SelectedObject Item;" />
+                local:MvxBind="ItemsSource Items; PartialText CurrentTextHint; SelectedObject SelectedObject;" />
         </LinearLayout>
     </android.support.v7.widget.CardView>
 </LinearLayout>

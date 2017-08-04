@@ -3997,8 +3997,8 @@ namespace AutoCompleteTest.Droid
 			// aapt resource value: 0x7f09004a
 			public const int list_item = 2131296330;
 			
-			// aapt resource value: 0x7f09009b
-			public const int masked = 2131296411;
+			// aapt resource value: 0x7f09009a
+			public const int masked = 2131296410;
 			
 			// aapt resource value: 0x7f090088
 			public const int media_actions = 2131296392;
@@ -4213,9 +4213,6 @@ namespace AutoCompleteTest.Droid
 			// aapt resource value: 0x7f09000b
 			public const int transition_scene_layoutid_cache = 2131296267;
 			
-			// aapt resource value: 0x7f090099
-			public const int tvName = 2131296409;
-			
 			// aapt resource value: 0x7f090009
 			public const int up = 2131296265;
 			
@@ -4225,8 +4222,8 @@ namespace AutoCompleteTest.Droid
 			// aapt resource value: 0x7f09000e
 			public const int view_offset_helper = 2131296270;
 			
-			// aapt resource value: 0x7f09009a
-			public const int visible = 2131296410;
+			// aapt resource value: 0x7f090099
+			public const int visible = 2131296409;
 			
 			// aapt resource value: 0x7f090029
 			public const int withText = 2131296297;
